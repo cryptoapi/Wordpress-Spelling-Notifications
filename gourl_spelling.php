@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: 		GoUrl Spelling Notifications
+Plugin Name: 		Webmaster Spelling Notifications
 Plugin URI: 		https://gourl.io/php-spelling-notifications.html
-Description: 		Plugin allows site visitors to send reports to the webmaster / website owner about any spelling or grammatical errors which may be found by readers. Visitors should select text with a mouse, press Ctrl+Enter, enter comments and the webmaster will be notified about any such errors. Nice and simple plugin - no external websites needed and fully customizable; easily change the language !
-Version: 			1.0.0
+Description: 		Plugin allows site visitors to send reports to the webmaster / website owner about any spelling or grammatical errors which may be found by readers. Visitors should select text with a mouse, press Ctrl+Enter, enter comments and the webmaster will be notified about any such errors. Nice and simple plugin - no external websites needed and fully customizable; easily change plugin language
+Version: 			1.1.0
 Author: 			GoUrl.io
 Author URI: 		https://gourl.io
 License: 			GPLv2
@@ -39,7 +39,7 @@ if (!class_exists('GoUrl_Spelling'))
 								 "form_button2"		=> "Cancel",
 								 "form_button3"		=> "Close Window",
 				
-								 "plugin_name"		=> "GoUrl Spelling Notifications",
+								 "plugin_name"		=> "Webmaster Spelling Notifications",
 				
 								 "form_message1" 	=> "Please select no more than 400 characters!",
 								 "form_message2"	=> "Please select the spelling error!",
@@ -223,7 +223,7 @@ if (!class_exists('GoUrl_Spelling'))
 			$tmp  = "<div style='margin:30px 20px'>";
 			$tmp .= "<form accept-charset='utf-8' action='".admin_url('options-general.php?page=spelling_notifications')."' method='post'>";
 			
-			$tmp .= "<h2>".__('GoUrl Spelling Notifications - Settings', GOURLSPL);
+			$tmp .= "<h2>".__('Webmaster Spelling Notifications - Settings', GOURLSPL);
 			$tmp .= "<div style='float:right; margin-top:-20px'><a href='https://gourl.io/' target='_blank'><img title='".__('Bitcoin Payment Gateway for Your Website', GOURLSPL)."' src='".plugins_url('/images/gourl.png', __FILE__)."' border='0'></a></div>";
 			$tmp .= "</h2>";
 			
@@ -458,7 +458,7 @@ if (!class_exists('GoUrl_Spelling'))
 		*/
 		public function admin_footer_text()
 		{
-			return sprintf( __( 'If you like <strong>GoUrl Spelling Notifications</strong> please leave us a <a href="%1$s" target="_blank">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating on <a href="%1$s" target="_blank">WordPress.org</a>. A huge thank you from GoUrl.io in advance!', GOURLSPL ), 'https://wordpress.org/support/view/plugin-reviews/gourl-spelling-notifications?filter=5#postform');
+			return sprintf( __( 'If you like <strong>Webmaster Spelling Notifications</strong> please leave us a <a href="%1$s" target="_blank">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating on <a href="%1$s" target="_blank">WordPress.org</a>. A huge thank you from GoUrl.io in advance!', GOURLSPL ), 'https://wordpress.org/support/view/plugin-reviews/gourl-spelling-notifications?filter=5#postform');
 		}
 		
 		
@@ -487,7 +487,7 @@ if (!class_exists('GoUrl_Spelling'))
 		}
 			
 	}
-	// end class                             
+	// end class            
 	
 	new GoUrl_Spelling;
 }

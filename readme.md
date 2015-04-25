@@ -1,5 +1,5 @@
 
-GoUrl Spelling Notifications
+Webmaster Spelling Notifications
 ---------------------------------
 
 The plugin allows site visitors to send reports to the webmaster / website owner about any spelling or grammatical errors which may be found by readers.
@@ -7,8 +7,9 @@ Visitors should select text with a mouse, press Ctrl+Enter, enter comments and t
 
 * Author URI: [https://gourl.io](https://gourl.io)
 * Plugin Page: [https://gourl.io/php-spelling-notifications.html](https://gourl.io/php-spelling-notifications.html)
+* Wordpress Page: [https://wordpress.org/plugins/gourl-spelling-notifications/](https://wordpress.org/plugins/gourl-spelling-notifications/)
 * Screenshots: [https://gourl.io/php-spelling-notifications.html#screenshot](https://gourl.io/php-spelling-notifications.html#screenshot)
-* Version: 1.0
+* Version: 1.1.0
 * Tested up to: Wordpress 4.2
 * License: GNU Version 2 or Any Later Version
 
