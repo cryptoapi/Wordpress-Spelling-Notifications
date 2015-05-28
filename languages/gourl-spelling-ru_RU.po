@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Webmaster Spelling Notifications\n"
+"POT-Creation-Date: 2015-05-28 12:00-0000\n"
+"PO-Revision-Date: 2015-05-28 12:00-0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: gourl_spelling.php:54
+msgid "Spelling or Grammar Error"
+msgstr "Орфографическая или грамматическая ошибка"
+
+#: gourl_spelling.php:55 gourl_spelling.php:71
+msgid "Webpage"
+msgstr "Веб-страница"
+
+#: gourl_spelling.php:56
+msgid "Describe the error and offer a solution"
+msgstr "Опишите ошибку и предложите решение"
+
+#: gourl_spelling.php:59
+msgid "Send to Author"
+msgstr "Отправить автору"
+
+#: gourl_spelling.php:60
+msgid "Cancel"
+msgstr "Отменить"
+
+#: gourl_spelling.php:61
+msgid "Close Window"
+msgstr "Закрыть окно"
+
+#: gourl_spelling.php:63
+msgid "Webmaster Spelling Notifications"
+msgstr "Правописание уведомления вебмастера"
+
+#: gourl_spelling.php:65
+msgid "Please select no more than 400 characters!"
+msgstr "Пожалуйста, выберите не более чем 400 символов!"
+
+#: gourl_spelling.php:66
+msgid "Please select the spelling error!"
+msgstr "Пожалуйста, выделите орфографическую ошибку!"
+
+#: gourl_spelling.php:67
+msgid ""
+"Thank you! Your message has been successfully sent, we highly appreciate "
+"your support!"
+msgstr ""
+"Спасибо! Ваше сообщение было успешно отправлено, мы высоко ценим вашу "
+"поддержку!"
+
+#: gourl_spelling.php:68
+msgid "Error! Message not sent, Please try again!"
+msgstr "Ошибка! Сообщение не отправлено, попробуйте еще раз!"
+
+#: gourl_spelling.php:70
+#, php-format
+msgid "Spelling Error on %s"
+msgstr "Орфографическая ошибка в %s"
+
+#: gourl_spelling.php:72
+msgid "Error"
+msgstr "Ошибка"
+
+#: gourl_spelling.php:73
+msgid "Comments"
+msgstr "Комментарий"
+
+#: gourl_spelling.php:74
+msgid "User"
+msgstr "Пользователь"
+
+#: gourl_spelling.php:75
+msgid "IP"
+msgstr "IP"
+
+#: gourl_spelling.php:76
+msgid "User Agent"
+msgstr "Браузер"
+
+#: gourl_spelling.php:121
+msgid "Settings"
+msgstr "Настройки"
+
+#: gourl_spelling.php:134 gourl_spelling.php:254
+msgid "Spelling Notifications"
+msgstr "Правописание Уведомления"
+
+#: gourl_spelling.php:241
+msgid "Webmaster Spelling Notifications - Settings"
+msgstr "Правописание уведомления вебмастера  - Настройки"
+
+#: gourl_spelling.php:242 gourl_spelling.php:338
+msgid "Free Bitcoin Payment Gateway for Your Website"
+msgstr "Бесплатный Биткоин платёжный шлюз для вашего сайта"
+
+#: gourl_spelling.php:245
+msgid "Settings has been restored <strong>successfully</strong>"
+msgstr "Настройки были восстановлены <strong>успешно</strong>"
+
+#: gourl_spelling.php:245
+msgid "Settings has been saved <strong>successfully</strong>"
+msgstr "Настройки были сохранены <strong>успешно</strong>"
+
+#: gourl_spelling.php:256
+msgid ""
+"<b>Ready to use:</b> &#160; Select any text on webpage and press CTRL+ENTER "
+"on your keyboard :)"
+msgstr ""
+"<b>Готов к использованию:</b> &#160;  Выберите любой текст на странице и "
+"нажмите CTRL + ENTER на клавиатуре :)"
+
+#: gourl_spelling.php:257
+msgid "Plugin Homepage"
+msgstr "Домашняя страница"
+
+#: gourl_spelling.php:257
+msgid "screenshots"
+msgstr "скриншоты"
+
+#: gourl_spelling.php:258
+msgid "Plugin on Github - 100% Free Open Source"
+msgstr "Плагин на Github - 100% открытый исходный код"
+
+#: gourl_spelling.php:260
+msgid ""
+"The plugin allows site visitors to send reports to the webmaster / website "
+"owner about any spelling or grammatical errors which may be found by readers."
+msgstr ""
+"Плагин позволяет посетителям сайта посылать отчеты веб-мастеру/ владельцу "
+"веб-сайта о любых орфографических или грамматических ошибок, которые могут "
+"быть найдены читателями."
+
+#: gourl_spelling.php:261
+msgid ""
+"Visitors should select text with a mouse, press Ctrl+Enter, enter comments "
+"and the webmaster will be notified about any such errors."
+msgstr ""
+"Посетитель должен выбрать текст с помощью мыши, нажать Ctrl + Enter, ввести "
+"комментарий и веб-мастер получит уведомление об этой ошибке."
+
+#: gourl_spelling.php:262
+#, php-format
+msgid ""
+"If you want to use Webmaster Spelling Notifications plugin in a language "
+"other than English, see the page <a href='%s'>Languages and Translations</a>"
+msgstr ""
+"Если вы собираетесь использовать плагин на другом языке, чем русский, "
+"смотрите страницу <a href='%s'>языки и переводы</a>"
+
+#: gourl_spelling.php:270
+msgid "Email From:"
+msgstr "Email от кого:"
+
+#: gourl_spelling.php:272
+msgid "Please enter email address"
+msgstr "Введите адрес электронной почты"
+
+#: gourl_spelling.php:278
+msgid "Email To:"
+msgstr "Email получателя:"
+
+#: gourl_spelling.php:280
+msgid "Please enter your email address for spelling error notifications"
+msgstr ""
+"Введите ваш адрес электронной почты для получения уведомлений об "
+"орфографических ошибках"
+
+#: gourl_spelling.php:286
+msgid "Style:"
+msgstr "Стиль:"
+
+#: gourl_spelling.php:287
+msgid "Shadow"
+msgstr "Тень"
+
+#: gourl_spelling.php:287
+msgid "No Shadow"
+msgstr "Без тени"
+
+#: gourl_spelling.php:288
+msgid "Full screen overlay with a pop-up notification form"
+msgstr "Затемнение экрана при вызове формы уведомления"
+
+#: gourl_spelling.php:296
+msgid "Banner"
+msgstr "Банер"
+
+#: gourl_spelling.php:299
+#, php-format
+msgid ""
+"Copy and paste the banner code to the bottom of your webpages. <a "
+"target='_blank' href='%s'>More info</a>"
+msgstr ""
+"Скопируйте и вставьте код баннера вниз веб-страниц. <a target='_blank' "
+"href='%s'>Подробнее</a>"
+
+#: gourl_spelling.php:308
+msgid "Text Localization and customization (optional)"
+msgstr "Локализация текста и настройки (необязательно)"
+
+#: gourl_spelling.php:319
+msgid "Default:"
+msgstr "По умолчанию:"
+
+#: gourl_spelling.php:327
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+#: gourl_spelling.php:328
+msgid "Restore Default"
+msgstr "Восстановить значения по умолчанию"
+
+#: gourl_spelling.php:337
+msgid "See our other free plugin (monetize your website) -"
+msgstr "Смотрите наш другой плагин (монетизирование вашего сайта) -"
+
+#: gourl_spelling.php:374
+msgid "Guest"
+msgstr "Гость"
+
+#: gourl_spelling.php:479
+#, php-format
+msgid ""
+"If you like <b>Webmaster Spelling Notifications</b> please leave us a %s "
+"rating on %s. A huge thank you from GoUrl in advance!"
+msgstr ""
+"Если вам нравится <b>Правописание уведомления вебмастера</b> пожалуйста, "
+"оставьте нам рейтинг %s на %s. Огромное спасибо вам от GoUrl заранее!"
+
+#~ msgid "Default: "
+#~ msgstr "По умолчанию:"
+
+#~ msgid "Agent"
+#~ msgstr "Агент"
+
+#~ msgid ""
+#~ "The plugin allows site visitors to send reports to the webmaster / "
+#~ "website owner about any spelling or grammatical errors which may be found "
+#~ "by readers. "
+#~ msgstr ""
+#~ "Плагин позволяет посетителям сайта посылать отчеты веб-мастеру/ владельцу "
+#~ "веб-сайта о любых орфографических или грамматических ошибок, которые "
+#~ "могут быть найдены читателями."
+
+#~ msgid ""
+#~ "<b>Ready to use:</b> &#160; Select any text on this webpage and press CTRL"
+#~ "+ENTER on your keyboard :)"
+#~ msgstr ""
+#~ "<b>Готов к использованию:</b>   Выберите любой текст на этой странице и "
+#~ "нажмите CTRL + ENTER на клавиатуре :)"

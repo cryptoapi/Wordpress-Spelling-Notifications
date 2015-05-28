@@ -2,7 +2,7 @@
  * Webmaster Spelling Notifications, 2015 year
  *
  * @link https://gourl.io/php-spelling-notifications.html
- * @version 1.0      
+ * @version 1.1.1
  * @license GPLv2
  */
 
@@ -60,4 +60,4 @@ function spl_get_sel_context(t) {
 function spl_call() {
     var t = spl_get_sel_text();
     t.selected_text.length > 400 ? alert(spl_txt1) : 0 == t.selected_text.length ? alert(spl_txt2) : (spl = spl_get_sel_context(t), spl_show_win())
-} 
+}
