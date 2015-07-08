@@ -5,7 +5,7 @@ Plugin URI: https://gourl.io/php-spelling-notifications.html
 Author URI: https://gourl.io 
 Tags: gourl, spelling, grammar, spell checker, spelling checker, grammatical, punctuation, notifications, webmaster, google spell, spell check, spellcheck, feedback, feedback form, form, contact form, custom form, customer request, contact us, form to email, email, request, survey, surveys, auto reply, report, report form, error, error form, error notification, notifications, bitcoin, mail, send, email form, wordpress, paycoin, report error
 Requires at least: 3.5
-Tested up to: 4.2
+Tested up to: 4.3
 Stable Tag: 1.1.1
 License: GNU Version 2 or Any Later Version
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
