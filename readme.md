@@ -9,8 +9,8 @@ Visitors should select text with a mouse, press Ctrl+Enter, enter comments and t
 * Plugin Page: [https://gourl.io/php-spelling-notifications.html](https://gourl.io/php-spelling-notifications.html)
 * Wordpress Page: [https://wordpress.org/plugins/gourl-spelling-notifications/](https://wordpress.org/plugins/gourl-spelling-notifications/)
 * Screenshots: [https://gourl.io/php-spelling-notifications.html#screenshot](https://gourl.io/php-spelling-notifications.html#screenshot)
-* Version: 1.1.1
-* Tested up to: Wordpress 4.3
+* Version: 1.1.2
+* Tested up to: Wordpress 4.9
 * License: GNU Version 2 or Any Later Version
 
 

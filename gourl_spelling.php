@@ -3,7 +3,7 @@
 Plugin Name: 		Webmaster Spelling Notifications
 Plugin URI: 		https://gourl.io/php-spelling-notifications.html
 Description: 		Plugin allows site visitors to send reports to the webmaster / website owner about any spelling or grammatical errors which may be found by readers. Visitors should select text with a mouse, press Ctrl+Enter, enter comments and the webmaster will be notified about any such errors. Nice and simple plugin - no external websites needed and fully customizable; easily change plugin language
-Version: 			1.1.1
+Version: 			1.1.2
 Author: 			GoUrl.io
 Author URI: 		https://gourl.io
 License: 			GPLv2

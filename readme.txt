@@ -3,10 +3,10 @@ Contributors: gourl, GoUrl.io
 Plugin Name: Webmaster Spelling Notifications
 Plugin URI: https://gourl.io/php-spelling-notifications.html
 Author URI: https://gourl.io 
-Tags: gourl, spelling, grammar, spell checker, spelling checker, grammatical, punctuation, notifications, webmaster, google spell, spell check, spellcheck, feedback, feedback form, form, contact form, custom form, customer request, contact us, form to email, email, request, survey, surveys, auto reply, report, report form, error, error form, error notification, notifications, bitcoin, mail, send, email form, wordpress, paycoin, report error
+Tags: gourl, spelling, grammar, spell checker, spelling checker, grammatical, punctuation, notifications, webmaster, google spell, spell check, spellcheck, feedback, feedback form, form, contact form, custom form, customer request, contact us, form to email, email, request, survey, surveys, auto reply, report, report form, error, error form, error notification, notifications, bitcoin, bitcoin cash, bitcoincash, mail, send, email form, wordpress, report error
 Requires at least: 3.5
-Tested up to: 4.3
-Stable Tag: 1.1.1
+Tested up to: 4.9
+Stable Tag: 1.1.2
 License: GNU Version 2 or Any Later Version
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -60,6 +60,9 @@ In the search field type "GoUrl Spelling" and click Search Plugins. Once you've 
 
 
 == Changelog ==
+
+= 1.1.2 = 
+Minor updates
 
 = 1.1.1 =
 Localisation - You can easy change/localize any text in plugin

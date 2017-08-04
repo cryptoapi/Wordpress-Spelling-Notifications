@@ -1,8 +1,8 @@
 /**
- * Webmaster Spelling Notifications, 2015 year
+ * Webmaster Spelling Notifications, 2015-2017 years
  *
  * @link https://gourl.io/php-spelling-notifications.html
- * @version 1.1.1
+ * @version 1.1.2
  * @license GPLv2
  */
 
@@ -40,5 +40,4 @@ height:395px;
 
 * html #splwin #splframe {
 margin-top:7px;
-}    
- 
+} 
